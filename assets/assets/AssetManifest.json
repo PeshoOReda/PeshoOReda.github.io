@@ -5,74 +5,38 @@
   "assets/fonts/Poppins-Regular.ttf": [
     "assets/fonts/Poppins-Regular.ttf"
   ],
-  "assets/icons/c-plus-plus-50.png": [
-    "assets/icons/c-plus-plus-50.png"
+  "assets/icons/dart.svg": [
+    "assets/icons/dart.svg"
   ],
-  "assets/icons/dart.png": [
-    "assets/icons/dart.png"
+  "assets/icons/firebase.svg": [
+    "assets/icons/firebase.svg"
   ],
-  "assets/icons/firebase.png": [
-    "assets/icons/firebase.png"
+  "assets/icons/flutter.svg": [
+    "assets/icons/flutter.svg"
   ],
-  "assets/icons/flutter.png": [
-    "assets/icons/flutter.png"
+  "assets/icons/git.svg": [
+    "assets/icons/git.svg"
   ],
-  "assets/icons/icons8-app-store-50.png": [
-    "assets/icons/icons8-app-store-50.png"
+  "assets/icons/github.svg": [
+    "assets/icons/github.svg"
   ],
-  "assets/icons/icons8-git-48.png": [
-    "assets/icons/icons8-git-48.png"
+  "assets/icons/figma.svg": [
+    "assets/icons/figma.svg"
   ],
-  "assets/icons/icons8-github-50.png": [
-    "assets/icons/icons8-github-50.png"
+  "assets/icons/postman.svg": [
+    "assets/icons/postman.svg"
   ],
-  "assets/icons/icons8-google-play-store-50.png": [
-    "assets/icons/icons8-google-play-store-50.png"
-  ],
-  "assets/icons/icons8-linux-48.png": [
-    "assets/icons/icons8-linux-48.png"
-  ],
-  "assets/icons/icons8-nestjs-48.png": [
-    "assets/icons/icons8-nestjs-48.png"
-  ],
-  "assets/icons/icons8-python-48.png": [
-    "assets/icons/icons8-python-48.png"
-  ],
-  "assets/icons/icons8-sql-48.png": [
-    "assets/icons/icons8-sql-48.png"
-  ],
-  "assets/icons/icons8-typescript-50.png": [
-    "assets/icons/icons8-typescript-50.png"
-  ],
-  "assets/icons/icons8-video-48.png": [
-    "assets/icons/icons8-video-48.png"
-  ],
-  "assets/icons/java.png": [
-    "assets/icons/java.png"
-  ],
-  "assets/icons/python.png": [
-    "assets/icons/python.png"
-  ],
-  "assets/images/1.png": [
-    "assets/images/1.png"
-  ],
-  "assets/images/desktop.png": [
-    "assets/images/desktop.png"
-  ],
-  "assets/images/exam_app_launcher_icon.png": [
-    "assets/images/exam_app_launcher_icon.png"
+  "assets/images/exam.png": [
+    "assets/images/exam.svg"
   ],
   "assets/images/fitness.png": [
     "assets/images/fitness.png"
   ],
-  "assets/images/flower_app_icon.png": [
-    "assets/images/flower_app_icon.png"
+  "assets/images/flower.png": [
+    "assets/images/flower.svg"
   ],
-  "assets/images/flowery_tracking_icon_launcher.png": [
-    "assets/images/flowery_tracking_icon_launcher.png"
-  ],
-  "assets/images/ms.png": [
-    "assets/images/ms.png"
+  "assets/images/flowery_tracking.png": [
+    "assets/images/flowery_tracking.png"
   ],
   "assets/images/profile.png": [
     "assets/images/profile.png"
